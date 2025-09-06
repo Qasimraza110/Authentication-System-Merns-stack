@@ -5,7 +5,7 @@ This is a full-stack authentication system built using the MERN stack (MongoDB, 
 It allows users to sign up, log in, and access a protected dashboard.
 
 Frontend:
-
+                                                    
 Built with React + Vite
 
 Styled using Tailwind CSS
